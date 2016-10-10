@@ -2917,10 +2917,6 @@
 							<string>#round-brackets</string>
 						</dict>
 						<dict>
-							<key>include</key>
-							<string>#curly-brackets</string>
-						</dict>
-						<dict>
 							<key>begin</key>
 							<string>\{</string>
 							<key>beginCaptures</key>
